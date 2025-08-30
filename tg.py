@@ -5,8 +5,8 @@ from aiogram.dispatcher import FSMContext
 from aiogram.dispatcher.filters.state import State, StatesGroup
 import asyncio
 
-API_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-ADMIN_ID = 123456789  # твой Telegram ID
+API_TOKEN = "8309652807:AAGm9d0lWcUcqonxFOgXruXpHDxE2ClUwfI"
+ADMIN_ID = 8127196287  # твой Telegram ID
 SBP_PHONE = "+7 999 123 45 67"  # номер для СБП
 
 bot = Bot(token=API_TOKEN, parse_mode="HTML")
